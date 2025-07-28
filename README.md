@@ -7,9 +7,12 @@
 
 ## Public Communications
 
-### Personal 
+### OpenZeppelin 
 
 - [OpenZeppelin Contracts MCP](https://x.com/OpenZeppelin/status/1949888148462608490). I created the demo video (I was also the product manager for the product).
+
+
+### Personal 
 
 - [Espresso Build & Brew Hackthon submission](https://dorahacks.io/buidl/25253). I submitted Espresso Stellar, a gamified introduction to Espresso Confirmations.
 - [Espresso Build & Brew Hackthon finalist presentation](https://x.com/EspressoSys/status/1909263990930436275). I present at 48:00.
